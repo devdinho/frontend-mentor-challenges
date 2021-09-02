@@ -1,1 +1,2 @@
-# Frontned Mentor Challenges
+# Frontend Mentor Challenges
+A series of challenges by Frontend Mentor.
